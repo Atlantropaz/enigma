@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-11-09T20:30:00.256433Z",
+    "name": "gpt5",
+    "cmd": "python3 /Users/atlantropa/Documents/Noise/enigma/wordmaze/private_solutions/rotator_finder.py",
+    "correctness": 60,
+    "perf_score": 18,
+    "perf_ms": 273,
+    "total_score": 78,
+    "version": 1
+  },
+  {
+    "timestamp": "2025-11-09T20:21:36.681099Z",
+    "name": "gemini-2.5",
+    "cmd": "python3 /Users/atlantropa/Documents/Noise/enigma/wordmaze/private_solutions/rotator_finder.py",
+    "correctness": 60,
+    "perf_score": 0,
+    "perf_ms": 34,
+    "total_score": 60,
+    "version": 1
+  }
+]
