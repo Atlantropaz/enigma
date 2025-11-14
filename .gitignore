@@ -13,3 +13,6 @@ dist/
 .idea/
 .vscode/
 wordmaze/private_solutions/
+phantom-refund/private_solutions-foundry/
+phantom-refund/private_solutions-rust/
+phantom-refund/check_submission_local.py
